@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**abivolante/abivolante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏽‍💻  About me
+Mathematics graduate turned data enthusiast. Had to face the real world, so I went from proving elegant theorems to playing in the mud with messy data. 
 
-Here are some ideas to get you started:
+### 🔭 Projects in progress
+- **[Lending Club Credit Risk Portfolio Monitoring](https://github.com/abivolante/Lending-Club-Credit-Risk-Portfolio-Monitoring-System)** — SQL credit risk analysis on BigQuery (exposure, delinquency, loss, EAD). Power BI dashboard in progress.
+- **[Ecommerce Dataset Exploration](https://github.com/abivolante/Ecommerce-Data-Exploration)** — SQL analysis of sales performance, customer behaviour, and anomalies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+ 
+Power BI & SQL.
+
+### 🥟 Outside the library
+I'm currently perfecting making dumplings from scratch, alongside sewing, trying out ambitious recipes, and exploring new restaurants in cities.
+
+### 📫 LinkedIn: https://www.linkedin.com/in/abigail-volante-uk/
