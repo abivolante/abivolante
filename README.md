@@ -3,7 +3,7 @@
 Mathematics graduate turned data enthusiast. Had to face the real world, so I went from proving elegant theorems to playing in the mud of messy data. 
 
 
-**Toolbox:** Python · Pandas · SQL · Google BigQuery · R · Git · Excel
+**Toolbox:** Python · Pandas · SQL · Google BigQuery · R · Excel
 
 ### 🔭 Projects 
 - **[Lending Club Credit Risk Portfolio Monitoring](https://github.com/abivolante/Lending-Club-Credit-Risk-Portfolio-Monitoring-System)** — SQL credit risk analysis on BigQuery (exposure, delinquency, loss, EAD). Power BI dashboard in progress.
