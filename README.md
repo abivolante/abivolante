@@ -1,6 +1,6 @@
 
 ### 👩🏽‍💻  About me
-Mathematics graduate turned data enthusiast. Had to face the real world, so I went from proving elegant theorems to playing in the mud with messy data. 
+Mathematics graduate turned data enthusiast. Had to face the real world, so I went from proving elegant theorems to playing in the mud of messy data. 
 
 
 **Toolbox:** Python · Pandas · SQL · Google BigQuery · R · Git · Excel
