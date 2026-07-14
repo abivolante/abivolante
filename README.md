@@ -5,7 +5,6 @@ Mathematics student at Lancaster University exploring the intersection of mathem
 **Toolbox:** Python · SQL · R 
 
 ### 🔭 Projects
-- **[RSA Security Lab](https://github.com/abivolante/rsa-security-lab)** - Implementing RSA cryptography from first principles alongside testing classic attacks against vulnerable implementations. (Ongoing)
 - **[Lending Club Credit Risk Portfolio Monitoring](https://github.com/abivolante/Lending-Club-Credit-Risk-Portfolio-Monitoring-System)** — SQL credit risk analysis on BigQuery. Power BI dashboard in progress.
 - **[Ecommerce Dataset Exploration](https://github.com/abivolante/Ecommerce-Data-Exploration)** — SQL analysis of sales performance, customer behaviour, and anomalies.
 
